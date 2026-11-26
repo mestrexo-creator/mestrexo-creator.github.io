@@ -1,0 +1,29 @@
+# =====================================================================
+#  NOVIDADES EM INGLÊS  (opcional)
+#  Mesmo jeito do arquivo novidades/posts.txt, só que em inglês.
+#  Se não quiser traduzir um post, tudo bem: deixe só em português.
+#  Fotos ficam na pasta em português: [foto: ../../novidades/fotos/nome.jpg]
+# =====================================================================
+
+# ---------- COMECE AQUI (post mais novo logo abaixo) ----------
+
+=== Nov 26, 2026 | The TAMBOKEN website is live
+jogo: tamboken
+Starting today, TAMBOKEN has its own home on the web. This is where game news, new level screenshots and download links will show up.
+
+The game is in a **closed test** on the Play Store with a small group of testers. After the test it opens to everyone on Android. The PC version comes later on Steam.
+
+=== Nov 25, 2026 | Version 0.53: the story gets a real ending
+jogo: tamboken
+Bento's story got deeper. Without spoiling too much:
+- Bento's father has kept a twenty-year secret, and it has everything to do with Colonel Vapor.
+- Bento's rush now comes at a price. One friend from the journey doesn't make it to the end.
+- A brand-new final mission: **The Top of the Tower**, with five floors and Colonel Vapor himself waiting on the roof.
+
+[foto: ../../novidades/fotos/torre.jpg]
+
+=== Nov 20, 2026 | The bosses got voices and new outfits
+jogo: tamboken
+Every boss now has their own voice and seven lines of their own, all voiced in Portuguese. They also got new outfits, designed one by one to match the place each of them rules.
+
+[foto: ../../novidades/fotos/barao.jpg]

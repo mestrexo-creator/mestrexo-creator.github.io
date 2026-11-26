@@ -1,0 +1,5 @@
+Fontes do TAMBOKEN (Google Fonts, SIL Open Font License 1.1 — uso comercial permitido,
+pode embutir no jogo; não pode vender a fonte sozinha):
+- Rye-Regular.ttf  (Nicole Fally / Sorkin Type) — títulos estilo faroeste
+- Bitter.ttf       (Huerta Tipográfica) — textos e botões
+Textos completos da licença: Biblioteca_Organizada/18_Fontes/Google_Fonts_OFL/*_OFL.txt

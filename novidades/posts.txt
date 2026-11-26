@@ -1,0 +1,49 @@
+# =====================================================================
+#  NOVIDADES DO SITE  (diário de desenvolvimento)
+#
+#  COMO ESCREVER UM POST NOVO:
+#   1. Copie o MODELO abaixo (sem os # do começo das linhas).
+#   2. Cole logo depois da linha "COMECE AQUI", em cima dos posts antigos.
+#      (o post mais novo fica sempre em cima)
+#   3. Troque a data, o título e o texto. Salve (botão "Commit changes").
+#
+#  MODELO:
+#  === 30/11/2026 | Título do post
+#  jogo: tamboken
+#  Primeiro parágrafo do texto.
+#
+#  Deixe uma linha em branco para começar outro parágrafo.
+#  - linha com tracinho vira item de lista
+#  - **palavra entre dois asteriscos** fica em negrito
+#  [foto: fotos/nome-da-foto.jpg]
+#
+#  DICAS:
+#   - A linha "jogo: tamboken" faz o post aparecer também na página do
+#     TAMBOKEN. Post do estúdio em geral? Apague essa linha.
+#   - Fotos: suba a imagem para a pasta novidades/fotos e escreva
+#     [foto: fotos/nome-exato-do-arquivo.jpg]
+#   - Linhas que começam com # (como estas) não aparecem no site.
+# =====================================================================
+
+# ---------- COMECE AQUI (post mais novo logo abaixo) ----------
+
+=== 26/11/2026 | O site do TAMBOKEN está no ar
+jogo: tamboken
+A partir de hoje o TAMBOKEN tem casa própria na internet. Aqui vão aparecer as novidades do jogo, as fotos das fases novas e os links para baixar.
+
+O jogo está em **teste fechado** na Play Store, com um grupo pequeno de testadores. Depois do teste, ele abre para todo mundo no Android. A versão de computador vem depois, na Steam.
+
+=== 25/11/2026 | Versão 0.53: a história ganhou um final de verdade
+jogo: tamboken
+A história do Bento ficou mais funda. Sem contar demais:
+- O pai do Bento guarda um segredo de vinte anos, e ele tem tudo a ver com o Coronel Vapor.
+- A pressa do Bento agora tem preço. Um amigo da jornada não chega ao fim.
+- Uma missão final nova: **O Alto da Torre**, com cinco andares e o Coronel Vapor em pessoa no telhado.
+
+[foto: fotos/torre.jpg]
+
+=== 20/11/2026 | Os chefões ganharam voz e roupa nova
+jogo: tamboken
+Cada chefão agora tem voz própria e sete falas só dele, todas dubladas em português. Também ganharam figurinos novos, pensados um por um para combinar com o lugar onde cada um manda.
+
+[foto: fotos/barao.jpg]
