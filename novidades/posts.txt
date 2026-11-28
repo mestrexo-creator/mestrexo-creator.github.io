@@ -27,6 +27,26 @@
 
 # ---------- COMECE AQUI (post mais novo logo abaixo) ----------
 
+=== 27/11/2026 | Jogo novo na forja: Golden Key
+Enquanto o TAMBOKEN está no teste fechado, a oficina já começou o próximo jogo. O nome ainda é provisório: **Golden Key**.
+
+É um jogo de ação e exploração em 3D, com o mesmo estilo de desenho em pixel do TAMBOKEN. Em vez de fases, um mundo para explorar: uma vila no centro, estradas, cemitérios, minas e masmorras escuras, com saque, ferreiro para fabricar e melhorar equipamento e, no fundo de tudo, um dragão.
+
+Você escolhe um de três heróis:
+- **Ryzen**, o guerreiro de espada e escudo;
+- **Mestre**, o velho mago do cajado;
+- **Raya**, a arqueira e assassina.
+
+O que já está pronto:
+- A sala de treino do Ryzen, com combo de espada, escudo, esquiva, defesa na hora certa e um giro especial.
+- Os primeiros monstros da Cripta: esqueleto de espada, esqueleto arqueiro, zumbi que agarra, o Capitão de elmo, o Lich com seu cajado e o Rei Esqueleto, chefe de três fases. Um ogro também já está pronto.
+
+[foto: fotos/golden-key-ryzen.jpg]
+
+As fotos são da sala de treino, ainda com o cenário de teste. A Cripta de verdade vem por aí.
+
+[foto: fotos/golden-key-lich.jpg]
+
 === 26/11/2026 | O site do TAMBOKEN está no ar
 jogo: tamboken
 A partir de hoje o TAMBOKEN tem casa própria na internet. Aqui vão aparecer as novidades do jogo, as fotos das fases novas e os links para baixar.

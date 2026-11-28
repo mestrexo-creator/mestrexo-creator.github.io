@@ -7,6 +7,26 @@
 
 # ---------- COMECE AQUI (post mais novo logo abaixo) ----------
 
+=== Nov 27, 2026 | A new game in the forge: Golden Key
+While TAMBOKEN is in closed testing, the workshop has already started the next game. The name is still a working title: **Golden Key**.
+
+It's a 3D action and exploration game with the same pixel-painted look as TAMBOKEN. Instead of levels, there's a world to explore: a village at the center, roads, graveyards, mines and dark dungeons, with loot, a blacksmith to craft and upgrade gear and, at the bottom of it all, a dragon.
+
+You pick one of three heroes:
+- **Ryzen**, the sword-and-shield warrior;
+- **Mestre**, the old staff-wielding wizard;
+- **Raya**, the archer and assassin.
+
+What's done so far:
+- Ryzen's training room, with a sword combo, shield, dodge, timed parry and a spinning special.
+- The first monsters of the Crypt: sword skeleton, skeleton archer, a grabbing zombie, the helmeted Captain, the Lich with his staff and the Skeleton King, a three-phase boss. An ogre is ready too.
+
+[foto: ../../novidades/fotos/golden-key-ryzen.jpg]
+
+These shots are from the training room, still on the test set. The real Crypt is coming.
+
+[foto: ../../novidades/fotos/golden-key-lich.jpg]
+
 === Nov 26, 2026 | The TAMBOKEN website is live
 jogo: tamboken
 Starting today, TAMBOKEN has its own home on the web. This is where game news, new level screenshots and download links will show up.
